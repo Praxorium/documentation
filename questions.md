@@ -1,5 +1,3 @@
-# Questions
-
 As wicked problems and interesting questions are raised, they will be listed on this page.
 
 | Question | Projects | Topic/s |
