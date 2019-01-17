@@ -1,6 +1,6 @@
-Praxorium is a place for praxis, for applying tools intended to deal with complexity to some of the most complex (wicked) social problems of our time.
+Praxorium is a place for global praxis, for active, open, and transparent collaboration on complex (wicked) social problems of our time.
 
-Due to the nature of Praxorium's mission and charter, all donations to Praxorium are both completely unconditional and fully transparent.
+Due to the nature of Praxorium's mission and charter, all donations to Praxorium are regarded as completely unconditional and recorded with full transparency.
 
 # Praxis (process) - from Wikipedia:
 
@@ -24,4 +24,8 @@ We need a way to capture and share our information, across multiple sources. We 
 
 To deal with wicked problems, research needs to make it from the lab into industry, local community action, decision making, legislation ... into praxis.
 
-To deal with wicked problems, we need to maximise our freedom in thought and action from any constraints which tend (intentionally or not) to add further complexity and complication to already complex systems.
+To deal with wicked problems, we need to maximise our freedom in thought and action from any constraints which tend (intentionally or not) to add further complexity and complication to already complex systems. It is necessary to grasp the big picture and the interrelationships amongst the causal factors in the problem space, to collaborate across siloed specialisms and innovate in the hitherto ignored spaces between those silos. These spaces are new, largely uncharted and poorly understood, and failures are inevitable. We have to be able to embrace and value failures for what they are -- which is information we desperately need as inputs to future work.
+
+The models and tools we use also need to be wielded with creativity, precision, curiosity, and flexibility. Exaptation is our friend.
+
+In so many ways, Praxorium itself is a living experiment. We don't know how to do the kinds of work and sense-making we need to do. We will learn as we go.
