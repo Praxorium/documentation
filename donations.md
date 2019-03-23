@@ -1,14 +1,14 @@
 ## Praxorium's Funding Model ## 
 
-Praxorium was launched in 2019 as an experiment in creating and holding a space -- an ecosystem -- for harnessing collective intelligence to actively work on managing wicked social challenges. If (and when!) the experiment proves successful in terms of attracting sufficient community engagement and financial donations to assure Praxorium's ongoing viability and development, Praxorium will be formally constituted as a not-for-profit organisation. 
+Praxorium was launched in 2019 as an experiment in creating and holding a space -- an ecosystem -- for harnessing collective intelligence to actively work on managing wicked social challenges. If (and when!) the experiment proves successful in terms of attracting sufficient community engagement and financial donations to assure Praxorium's ongoing viability and development, Praxorium will be formally constituted as a not-for-profit organisation.  
 
-In the meantime, all costs of the Praxorium project will be covered by the founder as a gift to humanity. If you would like to support the project and help ensure its continuance, donations will be gratefully received via the founder's personal Patreon page [link].
+In the meantime, Praxorium's founder will cover all costs of the Praxorium project as a gift to humanity. If you would like to support the project and help ensure its continuance, donations will be gratefully received via the founder's personal Patreon page [link].
 
 ## Donations as Unconditional Gifts ##
 
-Regardless of source, amount or timing, donations to Praxorium will always be treated as non-refundable gifts with no strings attached, and reported openly and transparently. 
+Regardless of source, amount or timing, donations to Praxorium will always be treated as non-refundable, unconditional gifts with no strings attached, and reported openly and transparently. 
 
-In practice, a "non-refundable gift with no strings attached" means that Praxorium does not in any case agree to work towards particular outcomes, render any services, or privilege any line of inquiry or interest. The purpose of the Praxorium ecosystem is to provide an open, useful, lightly moderated space for thoughtful and creative discussion and sharing of information. Praxorium is intended to foster and help us direct our collective intelligence to the benefit of all life on our beautiful, generous planet.
+In practice, a "non-refundable gift with no strings attached" means that Praxorium does not ever undertake to work towards particular outcomes, render any pre-defined services, or privilege any line of inquiry or interest. The purpose of the Praxorium ecosystem is to provide an open, safe, unpolluted, lightly moderated space for collaboration to the benefit of all life on our beautiful planet.
 
 ### Why Praxorium will only accept Gifts ###
 
@@ -32,3 +32,4 @@ The Praxorium ecosystem experiment is designed to avoid as many of those structu
 2. maintaining a holistic global and ecosphere focus, rather than a focus bounded by political jurisdiction, and 
 3. not engaging in for-profit competition
 
+Ultimately, Praxorium is focused on maintaining the integrity of the process, on praxis, rather than on achieving particular end goals on behalf of its patrons. 
