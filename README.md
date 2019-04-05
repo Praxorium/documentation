@@ -29,3 +29,5 @@ To deal with wicked problems, we need to maximise our freedom in thought and act
 The models and tools we use also need to be wielded with creativity, precision, curiosity, and flexibility. Exaptation is our friend.
 
 In so many ways, Praxorium itself is a living experiment. We don't know how to do the kinds of work and sense-making we need to do. We will learn as we go.
+
+<a href="https://www.patreon.com/bePatron?u=14614577" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
