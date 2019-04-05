@@ -1,3 +1,5 @@
+# Donations
+
 ## Praxorium's Funding Model ## 
 
 Praxorium was launched in 2019 as an experiment in creating and holding a space -- an ecosystem -- for harnessing collective intelligence to actively work on managing wicked social challenges. If (and when!) the experiment proves successful in terms of attracting sufficient community engagement and financial donations (approximately AUD $50,000 per year) to assure Praxorium's ongoing viability and development, Praxorium will be legally constituted as a not-for-profit organisation.  
