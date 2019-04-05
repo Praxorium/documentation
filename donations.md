@@ -1,8 +1,8 @@
 ## Praxorium's Funding Model ## 
 
-Praxorium was launched in 2019 as an experiment in creating and holding a space -- an ecosystem -- for harnessing collective intelligence to actively work on managing wicked social challenges. If (and when!) the experiment proves successful in terms of attracting sufficient community engagement and financial donations to assure Praxorium's ongoing viability and development, Praxorium will be formally constituted as a not-for-profit organisation.  
+Praxorium was launched in 2019 as an experiment in creating and holding a space -- an ecosystem -- for harnessing collective intelligence to actively work on managing wicked social challenges. If (and when!) the experiment proves successful in terms of attracting sufficient community engagement and financial donations (approximately AUD $50,000 per year) to assure Praxorium's ongoing viability and development, Praxorium will be legally constituted as a not-for-profit organisation.  
 
-In the meantime, Praxorium's founder will cover all costs of the Praxorium project as a gift to humanity. If you would like to support the project and help ensure its continuance, donations will be gratefully received via the founder's personal Patreon page [link].
+In the meantime, Praxorium's founder is covering all costs of the Praxorium project as a gift to humanity. If you would like to support the project and help ensure its continuance, donations will be gratefully received via the [founder's personal Patreon page](https://www.patreon.com/kyliestedmangomes).
 
 ## Donations as Unconditional Gifts ##
 
@@ -18,7 +18,7 @@ On first reading, that statement may well seem unnecessarily dramatic, if not co
 
 We humans tend to focus on the things we define and measure, in the sense that our actions and our perceptions are goal-directed. We make sense of the world around us by classifying it, by comparing and contrasting, deciding whether to include or ignore each stimulus on the basis of whether or not it is relevant to us. This process of storytelling and meaning-making and focusing on relevant information while excluding irrelevant information is critical to our daily survival, but at a meta-systemic level, it also makes it extraordinarily difficult to see outside the boxes we have created for ourselves, whether or not those boxes are still performing the functions we created them to perform.
 
-As Einstein said: "We cannot solve our problems with the same thinking we used when we created them."
+As Einstein said: _"We cannot solve our problems with the same thinking we used when we created them."_
 
 Changing our thinking is not easy, especially because the social and financial structures we have created exert often unseen influences on our thought patterns. 
 
