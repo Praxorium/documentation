@@ -23,5 +23,3 @@ To deal with wicked problems, research needs to make it from the lab into indust
 We have to be able to embrace and value failures for what they are -- information we desperately need as inputs to future work.
 
 In so many ways, Praxorium itself is a living experiment. We don't know how to do the kinds of work and sense-making we need to do. We will learn as we go.
-
-<a href="https://www.patreon.com/bePatron?u=14614577" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
